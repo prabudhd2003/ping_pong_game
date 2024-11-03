@@ -1,23 +1,12 @@
-# Pong Game in C++ using Raylib library
+# Ping Pong Game in C++ using Raylib library
 
-Pong Game in C++ using Raylib library.
+This is a simple Ping Pong game created using C++ and Raylib. The game features player and CPU paddles, a moving ball, and a scoring system.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+## Features
+1. Player and CPU paddles that move vertically to hit the ball.
+2. Score tracking for both player and CPU.
+3. Ball physics with realistic bouncing mechanics.
+4. Customizable colors for paddles, ball, and background elements.
 
-# Video Tutorial
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="820">
-</p>
-
-<p align="center">
-🎥 <a href="https://youtu.be/VLJlTaFvHo4">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+![image](https://github.com/user-attachments/assets/cedf04c5-407f-49a7-8f5d-c63a4fb71eb4)
